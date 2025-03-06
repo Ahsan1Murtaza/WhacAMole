@@ -6,5 +6,5 @@ A **fun and fast-paced** game where you need to **click on Monty but avoid click
 ## 📌 Features  
 - 🎯 **Simple Yet Addictive Gameplay** – Click Monty ✅, avoid Piranha ❌.  
 - ⏳ **Survival Mode** – Play as long as you can without clicking the wrong target.  
-- 🎨 **Clean UI** – Built using **JavaFrame** for a lightweight experience.  
+- 🎨 **Clean UI** – Built using **JavaSwing** for a lightweight experience.  
 - 🔄 **Randomized Positions** – Monty and Piranha appear in different locations to keep you on your toes!  
